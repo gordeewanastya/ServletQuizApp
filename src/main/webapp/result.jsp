@@ -10,10 +10,11 @@
         h3 {
             color: #007bff;
             margin-top: 50px;
+            text-align: center;
         }
     </style>
 </head>
 <body>
-<h3>Вы ответили правильно на ${result} вопроса из 10.</h3>
+<h3>Вы ответили правильно на ${result} вопрос(а) из 5.</h3>
 </body>
 </html>
